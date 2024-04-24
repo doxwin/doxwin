@@ -1,7 +1,36 @@
 body {
-  background-color: black;
+    background-color: #320000;
 }
 
-p {
-  color: white;
+.win {
+    background-color: rgb(146, 146, 146);
+    background-image: url('');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.sr-only {
+    color: #060606;
+    background-color: #060606;
+    border: none;
+    border-color: #060606;
+}
+
+input {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+    transition: all 2s;
+}
+
+.e {
+    width: 170px;
+    transition: all 2s;
+}
+
+.e:hover {
+    width: 200px;
+    background-color: #290000;
 }
