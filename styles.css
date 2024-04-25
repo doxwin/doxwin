@@ -45,4 +45,25 @@ input {
     border: none;
     width: 100px;
     height: 50px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: #060606;
+}
+
+.n {
+    border: none;
+    border-radius: 6px;
+    background-color: white;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 43%;
 }
