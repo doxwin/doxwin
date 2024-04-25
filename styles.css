@@ -25,6 +25,10 @@ input {
     transition: all 2s;
 }
 
+.asa {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .e {
     width: 170px;
     transition: all 2s;
@@ -37,28 +41,55 @@ input {
 
 .navbar {
     color: white;
-
 }
+
+.denis {
+    font-family: 'Courier New', Courier, monospace;
+    color: #a3cedf;
+    font-size: 30px;
+    position: absolute;
+    margin: 70px 0px 0px 100px;
+    text-decoration-color: #0e008b;
+}
+
+.aleksei {
+    font-family: 'Courier New', Courier, monospace;
+    color: #a3cedf;
+    font-size: 30px;
+    position: absolute;
+    margin: 130px 0px 0px 100px;
+    text-decoration-color: #0e008b;
+}
+
+h6 {
+    color: white;
+}
+
+th {
+    color: white;
+}
+
 .sofia {
-    background-color: #060606;
-    color: #fff;
-    border: none;
-    width: 100px;
-    height: 50px;
-    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #a3cedf;
+    font-size: 30px;
+    position: absolute;
+    margin: 10px 0px 0px 100px;
+    text-decoration-color: #0e008b;
 }
 
 p {
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color: white;
 }
 
 a {
-    text-decoration: none;
-    color: #060606;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .n {
+    font-family: 'Courier New', Courier, monospace;
     border: none;
     border-radius: 6px;
     background-color: white;
